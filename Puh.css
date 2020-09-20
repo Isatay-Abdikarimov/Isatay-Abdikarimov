@@ -1,0 +1,151 @@
+body ,table ,tr ,td ,div ,ul ,li ,img ,a ,h1 , th, input, form{
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+}
+
+#vmenu{
+	margin:0;
+	padding:0;
+	width:980;
+	height:38;
+	background-color:green;
+
+	
+}
+#sheet{
+	width:580px;
+	padding:10px;
+	background-color:blue;
+}
+
+#sheet1{
+	width:580px;
+	padding:10px;
+	background-color:red;
+}
+
+#sheet2{
+width:580px;
+padding:10px;
+background-color:yellow;
+}
+
+#sheet3{
+width:580px;
+padding:10px;
+background-color:green;
+}	
+
+#h1_opisan{
+	width:530px;
+	text-align:center;
+	text-decoration:none;
+	font-size:25px;
+	font-family:verdana, arial,serif;
+	font-size:italic;
+	font-weight: bold;
+	line-height:40px;
+	color:red;
+}
+.div_opisan{
+	line-height:22px;
+	width:530px;
+	text-align:justify;
+	text-decoration:none;
+	font-size:18px;
+	font-family:verdana, arial,serif;
+	font-size:italic;
+	font-weight:normal;
+	line-height:22px;
+	color:red;
+	font-style:normal;
+	
+	white-space:normal
+}
+.left_b {
+	padding-top:10px;
+	padding-bottom:20px;
+	width:200px;
+}
+.left_b img{
+	border: orange 5px double;
+}
+.left_b h1{
+    width:200px;
+	text-align:center;
+	text-decoration:none;
+	font-size:25px;
+	font-family:verdana, arial,serif;
+	font-size:30px;
+	font-weight: bold;
+	line-height:50px;
+	color:blue;
+  }
+  .left_b img:hover{
+	  border:red 5px double;
+  }
+ .right_b{
+	padding-top:10px;
+	padding-bottom:20px;
+	width:200px; 
+ }
+ .right_b h1{
+	 width:200px;
+	text-align:center;
+	text-decoration:none;
+	font-size:25px;
+	font-family:verdana, arial,serif;
+	font-size:30px;
+	font-weight: bold;
+	line-height:50px;
+	color:blue;
+ }
+ .right_b img:hover{
+ border:red 5px double;
+ }
+ .right_b img{
+	 border: orange 5px double;
+}
+
+#zakaz td, #zakaz th, #zakaz input{
+	white-space: nowrap;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: Verdana, arial, serif;
+	font-style: normal;
+	line-height: 15px;
+	color:brown;
+}
+
+#zakaz th{
+	font-weight: bold;
+	color:btown;
+}
+
+#zakar tr{
+	height:35 px;
+}
+
+#zakaz td, #zakaz th{
+	width:260px;
+	vertical-align: middle;
+	text-align: center;
+	border: brown 1px solid;
+}
+
+#zakaz input{
+	font-weight: bold;
+	color:red;
+	width:200px;
+	height: 25px;
+	border: brown 1px solid;
+	background-color: white;
+	padding:3px;
+}
